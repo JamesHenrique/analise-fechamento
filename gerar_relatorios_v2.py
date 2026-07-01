@@ -8,7 +8,7 @@ from io import BytesIO
 from PIL import Image
 
 BASE = 'G:/Outros computadores/NOTEBOOK1/James/projeto_relive/Relatório/Relatório de abertura-fechamento'
-LOGO_PATH = f'{BASE}/logo-semfundo.png'
+LOGO_PATH = f'{BASE}/logo.png'
 
 # Carregar KPIs
 with open(f'{BASE}/kpis.json', 'r', encoding='utf-8') as f:
