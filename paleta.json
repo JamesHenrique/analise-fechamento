@@ -1,0 +1,40 @@
+{
+  "primary": [
+    96,
+    32,
+    96
+  ],
+  "primary_hex": "#602060",
+  "secondary": [
+    160,
+    32,
+    96
+  ],
+  "secondary_hex": "#a02060",
+  "accent": [
+    224,
+    96,
+    32
+  ],
+  "accent_hex": "#e06020",
+  "dark_bg": [
+    66,
+    12,
+    56
+  ],
+  "dark_bg_hex": "#420c38",
+  "light_bg": [
+    248,
+    244,
+    252
+  ],
+  "light_bg_hex": "#f8f4fc",
+  "text": [
+    60,
+    40,
+    80
+  ],
+  "text_hex": "#3c2850",
+  "white": "#ffffff",
+  "muted": "#8e7ca3"
+}

@@ -1,0 +1,123 @@
+{
+  "total_sabados": 260,
+  "total_antes_8h": 66,
+  "total_apos_19h": 24,
+  "total_geral": 350,
+  "sabados_unicos": 21,
+  "total_sabados_periodo": 26,
+  "sabados_sem_atendimento": 5,
+  "taxa_ocupacao_sabados": 80.76923076923077,
+  "media_antes_8h_dia": 0.5116279069767442,
+  "media_sabado_dia": 12.380952380952381,
+  "dias_uteis": 129,
+  "sabados_por_mes": {
+    "2026-02": 61,
+    "2026-03": 57,
+    "2026-01": 46,
+    "2026-04": 39,
+    "2026-06": 38,
+    "2026-05": 19
+  },
+  "antes_8h_por_mes": {
+    "2026-05": 17,
+    "2026-03": 13,
+    "2026-04": 11,
+    "2026-06": 11,
+    "2026-01": 8,
+    "2026-02": 6
+  },
+  "apos_19h_por_mes": {
+    "2026-01": 8,
+    "2026-04": 6,
+    "2026-05": 4,
+    "2026-03": 2,
+    "2026-06": 2,
+    "2026-02": 2
+  },
+  "sabados_por_profissional": {
+    "Enfermagem": 126,
+    "Helaine Beatriz Jacobucci": 91,
+    "Estética": 18,
+    "Estética Lais": 11,
+    "Raíssa Quaiatti Antonelli": 7,
+    "Valeria Correia de Jesus Silva": 5,
+    "Estética Grazi": 2
+  },
+  "antes_8h_por_profissional": {
+    "Helaine Beatriz Jacobucci": 42,
+    "Cibele Priscila Busch Furlan": 22,
+    "Estética Grazi": 2
+  },
+  "apos_19h_por_profissional": {
+    "Estética": 10,
+    "Estética Grazi": 6,
+    "Raíssa Quaiatti Antonelli": 4,
+    "Estética Lais": 3,
+    "Helaine Beatriz Jacobucci": 1
+  },
+  "sabados_por_tipo": {
+    "SORO PERSONALIZADO": 37,
+    "ASSESSMENT ACOMPANHAMENTO": 25,
+    "ALINHAMENTO": 22,
+    "TIRZEPATIDA 2,5mg": 21,
+    "CONSULTA NUTRICIONAL": 16,
+    "TIRZEPATIDA 10mg": 12,
+    "ASSESSMENT CORPORAL": 11,
+    "SORO ATIVADOR METABÓLICO": 10,
+    "TIRZEPATIDA 5mg": 9,
+    "Soro ALA": 8
+  },
+  "antes_8h_por_tipo": {
+    "ASSESSMENT ACOMPANHAMENTO": 32,
+    "ALINHAMENTO": 15,
+    "CONSULTA NUTRICIONAL": 9,
+    "1ª CONSULTA NUTRICIONAL": 3,
+    "TAREFA": 1,
+    "Exame Ex Complex": 1,
+    "ASSESSMENT CORPORAL": 1,
+    "Higienização Facial (Estética)": 1,
+    "EXAMES DE REEMBOLSO": 1,
+    "BodyGee (medidas)": 1
+  },
+  "apos_19h_por_tipo": {
+    "FOTONA - D+": 6,
+    "LIMPEZA DE PELE": 6,
+    "CONSULTA DRA RAISSA": 3,
+    "FOTONA - CORPORAL": 2,
+    "ENDOLASER": 1,
+    "FOTONA - PEELING": 1,
+    "FOTONA - ESTRIAS (15X15) CM2": 1,
+    "RETORNO - FOTONA": 1,
+    "EMSCULPTNEO ABDOMEN": 1,
+    "FOTONA - INTIMALASE, REJUVENESCIMENTO DO CANAL VAGINAL": 1
+  },
+  "sabados_pacientes_unicos": 62,
+  "antes_8h_pacientes_unicos": 25,
+  "apos_19h_pacientes_unicos": 22,
+  "top10_profissionais_impactados": {
+    "Helaine Beatriz Jacobucci": 134,
+    "Enfermagem": 126,
+    "Estética": 28,
+    "Cibele Priscila Busch Furlan": 22,
+    "Estética Lais": 14,
+    "Raíssa Quaiatti Antonelli": 11,
+    "Estética Grazi": 10,
+    "Valeria Correia de Jesus Silva": 5
+  },
+  "sabados_por_hora": {
+    "08:00": 49,
+    "08:15": 24,
+    "08:30": 25,
+    "08:45": 8,
+    "09:00": 31,
+    "09:15": 6,
+    "09:30": 19,
+    "09:45": 9,
+    "10:00": 36,
+    "10:15": 14,
+    "10:30": 19,
+    "10:45": 7,
+    "11:00": 11,
+    "11:15": 2
+  }
+}
